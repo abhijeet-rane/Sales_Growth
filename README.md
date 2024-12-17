@@ -85,11 +85,13 @@ The top three factors influencing customer behavior are:
 2. **Frequency**: The number of purchases made by a customer.  
 3. **Sales**: The total monetary value spent by the customer.
 
-<img src="images/output_1.png" alt="Project Screenshot" width="500"/>
+
+<img src="images/output_3.png" alt="Project Screenshot" width="500"/>
 
 <img src="images/output_2.png" alt="Project Screenshot" width="500"/>
 
-<img src="images/output_3.png" alt="Project Screenshot" width="500"/>
+<img src="images/output_1.png" alt="Project Screenshot" width="500"/>
+
 ---
 
 ## Plan to Address Identified Factors
